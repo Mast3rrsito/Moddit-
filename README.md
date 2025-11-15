@@ -8,27 +8,35 @@
 
 ## Download
 
-[Download](https://pvz.lmintlcx.com/tools/)
+[Download] No disponible Actualmente
 
 Supported operating systems:
+(Minimu)
 
-- Windows 7 SP1 + (x86 / WoW64)
+| OS         | MRam    | MMemory      | Compiler  |
+| ---------- | ------- | --------- | --------- |
+| Windows 10 | 2 GB    | 1.3.1     | MSVC 2017 |
+| ---------- | ------- | --------- | --------- |
+| Windows 11 | 4 GB    | 1.3.1     | MSVC 2017 |
 
 Supported game version:
 
-- [PC 1.0.0.1051](https://pvz.lmintlcx.com/download/)
+Aquí tienes algunos **números de versión conocidos** (builds) para **PVZ 1 / GOTY**:
 
-## Build
+* 1.0.0.1051
+* 1.0.4.7924 
+* 1.0.7.2941 
+* 1.0.7.3556 
+* 1.1.0.1156 
+* 1.2.0.1065 
+* 1.2.0.1073
+* 1.2.0.1082 
+* 1.2.0.1091 
+* 1.2.0.1092 
+* 1.2.0.1093 
+* 1.2.0.1095 
+* 1.2.0.1096 
 
-You need a C++17 compiler and Qt 5 libraries to build it.
-
-Qt must be linked with OpenSSL or Schannel, zlib is also required.
-
-Already tested and confirmed works with:
-
-| Qt      | OpenSSL | zlib      | Compiler  |
-| ------- | ------- | --------- | --------- |
-| 5.15.14 | 1.1.1w  | 1.3.1     | MSVC 2017 |
 
 ## Credit
 
