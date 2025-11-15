@@ -11,16 +11,14 @@
 [Download] No disponible Actualmente
 
 Supported operating systems:
-(Minimu)
+M = (Minimum requirements for operation)
 
 | OS         | MRam    | MMemory   |
 | ---------- | ------- | --------- | 
-| Windows 10 | 2 GB    | 1.3.1     | 
-| Windows 11 | 4 GB    | 1.3.1     | 
+| Windows 10 | 2 GB    | 0KB       | 
+| Windows 11 | 4 GB    | 0KB       | 
 
 Supported game version:
-
-Aquí tienes algunos **números de versión conocidos** (builds) para **PVZ 1 / GOTY**:
 
 * 1.0.0.1051
 * 1.0.4.7924 
@@ -39,4 +37,4 @@ Aquí tienes algunos **números de versión conocidos** (builds) para **PVZ 1 / 
 
 ## Credit
 
-This project was originally based on [zhumxiang/PVZ_Helper](https://github.com/zhumxiang/PVZ_Helper) and got a lot of help from [Lazuplis-Mei](https://github.com/Lazuplis-Mei).
+This project was made by master
