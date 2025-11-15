@@ -13,11 +13,10 @@
 Supported operating systems:
 (Minimu)
 
-| OS         | MRam    | MMemory      | Compiler  |
-| ---------- | ------- | --------- | --------- |
-| Windows 10 | 2 GB    | 1.3.1     | MSVC 2017 |
-| ---------- | ------- | --------- | --------- |
-| Windows 11 | 4 GB    | 1.3.1     | MSVC 2017 |
+| OS         | MRam    | MMemory   |
+| ---------- | ------- | --------- | 
+| Windows 10 | 2 GB    | 1.3.1     | 
+| Windows 11 | 4 GB    | 1.3.1     | 
 
 Supported game version:
 
