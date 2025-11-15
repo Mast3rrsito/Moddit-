@@ -10,7 +10,8 @@
 
 [Download] No disponible Actualmente
 
-Supported operating systems:
+## Supported operating systems:
+
 M = (Minimum requirements for operation)
 
 | OS         | MRam    | MMemory   |
@@ -18,7 +19,7 @@ M = (Minimum requirements for operation)
 | Windows 10 | 2 GB    | 0KB       | 
 | Windows 11 | 4 GB    | 0KB       | 
 
-Supported game version:
+## Supported game version:
 
 * 1.0.0.1051
 * 1.0.4.7924 
