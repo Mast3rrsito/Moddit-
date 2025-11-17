@@ -1,10 +1,7 @@
 
-# Moddit plus
+# Moddit Lite-Pvz
 
-
-## Screenshots
-
-![](https://github.com/lmintlcx/pvztools/raw/master/screenshots/pvztools_preview.gif)
+On Develop
 
 ## Download
 
